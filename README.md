@@ -2,6 +2,7 @@
 
 Python Data Science Notes
 
-- Kaggle: Kaggle Datasets
 - Awesome: Amazing Python Library
+- Blog: Personal Blog Content
+- Kaggle: Kaggle Datasets
 - OrangeCookbook: Orange Tutorial
